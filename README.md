@@ -77,12 +77,23 @@ Screenshots 📸
 
 Here’s a peek at what you can expect:
 
-*   **Homepage of Afriwork UI Clone** 🏠
-    
-*   **Dashboard view** 🧑‍💻
-    
+![Screenshot (1032)](https://github.com/user-attachments/assets/2b8f9011-f172-4af7-b130-e0556ca304c9)
+![Screenshot (1031)](https://github.com/user-attachments/assets/56b44987-3a0f-458b-b3a9-d2ed7e9f45f5)
+![Screenshot (1030)](https://github.com/user-attachments/assets/f005fe21-0eba-4d7a-b3b6-1c1af71df2d3)
+![Screenshot (1029)](https://github.com/user-attachments/assets/5ec953cc-fe90-4706-b96f-36cdbfa07ea0)
+![Screenshot (1028)](https://github.com/user-attachments/assets/ecee465e-a974-41e8-8b0d-2849907bd485)
+![Screenshot (1027)](https://github.com/user-attachments/assets/d8764322-e2cc-41fb-8a8c-5747ca4508b2)
+![Screenshot (1026)](https://github.com/user-attachments/assets/4f589e8e-a4e2-4ec1-8654-31d39d853e1f)
+![Screenshot (1025)](https://github.com/user-attachments/assets/e9d04a1e-c058-4c00-899b-0cb1aa186c47)
+![Screenshot (1024)](https://github.com/user-attachments/assets/545ec6f8-3ecb-4236-b30f-2a3b16d8b13b)
+![Screenshot (1023)](https://github.com/user-attachments/assets/66ecf6b0-a63e-4b59-9d49-df466ecbece7)
+![Screenshot (1022)](https://github.com/user-attachments/assets/b834b220-da45-4024-a7e4-b87455b03346)
+![Screenshot (1021)](https://github.com/user-attachments/assets/adfaf4e3-2622-410f-8d61-435a25a59351)
+![Screenshot (1020)](https://github.com/user-attachments/assets/6cc240f8-03a4-4401-b5d1-b7746869ff8d)
+![Screenshot (1019)](https://github.com/user-attachments/assets/d99d58c2-4c9c-44de-817a-9e9427ca93c3)
+![Screenshot (1018)](https://github.com/user-attachments/assets/f8c6aa94-eed6-4a14-b40b-4a8dfd8acf2d)
+![Screenshot (1017)](https://github.com/user-attachments/assets/2a6191de-37b4-4693-94a4-d922730df613)
 
-_Note: Don't forget to add your own screenshots in the public folder and update the paths above!_
 
 Contributing 🤝
 ---------------
